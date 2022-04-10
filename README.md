@@ -1,6 +1,6 @@
 # GitHub_Split_Files_Technique
-<b>
 # 7-Zip
+<b>
 <ol>
   <li>Right Click</li>
   <li>7-Zip</li>
