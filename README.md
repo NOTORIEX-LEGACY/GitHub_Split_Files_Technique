@@ -9,4 +9,5 @@
   <li>Upload the .001,.002, etc. files</li>
   <li>To extract or to join the files together to retrieve data, highlight the split files (.001, .002) and extract them together</li>
 </ol>
+<p> Template available here: https://github.com/NOTORIEX-LEGACY/Split_Files_Template
 </b>
